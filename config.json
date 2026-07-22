@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "message": "",
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "download_url": "https://github.com/ndh0408/doifile-vanphong/releases/latest/download/Setup-DoiFileVanPhong.exe",
-  "notes": "",
+  "notes": "Giao diện mới Gia Nguyễn + kích hoạt bằng key",
   "report_url": "https://doifile.gianguyen.cloud/report"
 }
